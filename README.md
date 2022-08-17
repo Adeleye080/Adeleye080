@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="500" src="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9.gif">
+<img align="center" alt="coding" width="500" src="https://media.baamboozle.com/uploads/images/163447/1616350309_1550306_gif-url.gif">
 <h1 align="center">Hi 👋, I'm Ajiboye Adeleye Pius</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
