@@ -1,4 +1,4 @@
-![MasterHead](https:/"6/media.baamboozle.com/uploads/images/163447/1616350309_1550306_gif-url.gif)
+![MasterHead](https://www.lyfemarketing.com/blog/wp-content/uploads/2018/06/graphic-design-tips.jpg)
 <h1 align="center">Hi 👋, I'm Ajiboye Adeleye Pius</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
