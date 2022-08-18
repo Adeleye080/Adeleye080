@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Loops, conditions and parsing**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Bash**
 
 - 💬 Ask me about **Anything in my collection**
 
