@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Loops, conditions and parsing**
 
-- 🌱 I’m currently learning **Bash**
+- 🌱 I’m currently learning **`Regex`, `DevOps`.**
 
-- 💬 Ask me about **Anything in my collection**
+- 💬 Ask me about **Anything in my stack**
 
 - 📫 How to reach me **ajiboyeadeleye080@gmail.com**
 
