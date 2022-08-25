@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Networking basics**
 
-- 🌱 I’m currently learning **`Network`, `DevOps`.**
+- 🌱 I’m currently learning **`Network`, `sysAdmin`, `DevOps`.**
 
 - 💬 Ask me about **Anything in my stack**
 
