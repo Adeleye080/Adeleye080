@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ajiboyeadeleye080@gmail.com**
 
-- ⚡ Fun fact **I'm a student of the ALX Software Engineering Programme**
+- ⚡ Fun fact **I am an ALX Software Engineering Program student.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
