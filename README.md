@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AirBnB Clone**
 
-- 🌱 I’m currently learning **`Python`, `OOP`.**
+- 🌱 I’m currently learning **`Python`, `OOP`, `unittest`.**
 
 - 💬 Ask me about **Anything in my stack**
 
