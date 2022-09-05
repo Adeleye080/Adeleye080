@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-- 🔭 I’m currently working on **AirBnB Clone**
+- 🔭 I’m currently working on **Fix my Code**
 
-- 🌱 I’m currently learning **`Python`, `OOP`, `unittest`.**
+- 🌱 I’m currently learning **`Debugging`.**
 
 - 💬 Ask me about **Anything in my stack**
 
