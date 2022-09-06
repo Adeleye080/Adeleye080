@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SQL - Introduction**
 
-- 🌱 I’m currently learning **`SQL`, `MySQL.**
+- 🌱 I’m currently learning **`SQL`, `MySQL`.**
 
 - 💬 Ask me about **Anything in my stack**
 
