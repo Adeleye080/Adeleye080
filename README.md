@@ -31,4 +31,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeleye080&" alt="Adeleye080" /></p>
 
+### Github Statistics
+
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/Adeleye080"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Adeleye080&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/Adeleye080"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeleye080&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/Adeleye080"><img alt="Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeleye080&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adeleye080&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeleye080&label=Profile%20views&color=0e75b6&style=flat" alt="Ajiboye" /> </p>
+
