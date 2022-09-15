@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td>
-      <p> - 🔭 I’m currently working on <b> Makefiles </b></p>
-      <p> - 🌱 I’m currently learning <b> C. </b></p>
+      <p> - 🔭 I’m currently working on <b> Web infrastructure design </b></p>
+      <p> - 🌱 I’m currently learning <b> Python. </b></p>
       <p> - 💬 Ask me about <b> Anything in my Pile </b></p>
       <p> - 📫 How to reach me <b> ajiboyeadeleye080@gmail.com </b></p>
       <p> - ⚡ Fun fact <b> I am an ALX Software Engineering student. </b></p>
