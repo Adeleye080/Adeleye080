@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeleye080&" alt="Adeleye080" /></p>
 
-![Github Activity Graph](<https://murmuring-chamber-62635.herokuapp.com/>/graph?username=<username>)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adeleye080&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
