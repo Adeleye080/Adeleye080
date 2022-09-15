@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeleye080&show_icons=true&locale=en" alt="Adeleye080"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeleye080&" alt="Adeleye080" /></p>
+
+![Github Activity Graph](<https://murmuring-chamber-62635.herokuapp.com/>/graph?username=<username>)
