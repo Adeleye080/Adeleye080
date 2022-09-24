@@ -1,4 +1,4 @@
-<img alt="github" width="784" height="325" src="https://github.com/Adeleye080/Adeleye080/blob/master/Git.jpg" />
+<!-- <img alt="github" width="784" height="325" src="https://github.com/Adeleye080/Adeleye080/blob/master/Git.jpg" /> -->
 <h1 align="center">Hi 👋, I'm Ajiboye Adeleye Pius</h1>
 <h3 align="center">I'm a dedicated Nigerian software Egineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeleye080&label=Profile%20views&color=0e75b6&style=flat" alt="Ajiboye" /> </p>
