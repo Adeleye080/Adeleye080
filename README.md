@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <p> - 🔭 I’m currently working on <b> JavaScript - Warm up </b></p>
+      <p> - 🔭 I’m currently <!-- working on <b> JavaScript - Warm up </b> --> having <b>PLD(<em> Peer Learning Day </em>) session </p>
       <p> - 🌱 I’m currently learning <b> Javascript </b></p>
       <p> - 💬 Ask me about <b> Anything in my Pile </b></p>
       <p> - 📫 How to reach me <b> ajiboyeadeleye080@gmail.com </b></p>
