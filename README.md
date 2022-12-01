@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <p> - 🔭 I’m currently working on a clone of the <b> AirBnB Webapp - Deploy static</b>
+<!--      <p> - 🔭 I’m currently working on a clone of the <b> AirBnB Webapp - Deploy static</b>  -->
 <!--      <p> - 🌱 I’m currently learning <b> mySQL, SQLAlchemy </b></p>  -->
       <p> - 💬 Ask me about <b> Anything in my Pile </b></p>
       <p> - 📫 How to reach me <b> ajiboyeadeleye080@gmail.com </b></p>
