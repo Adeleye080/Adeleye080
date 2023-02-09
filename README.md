@@ -11,7 +11,7 @@
     <td>
 <!--       <p> - 🔭 I’m currently working on a project - <b> SEAJRO - Weather App. </b> -->
       <p> - 🌱 I’m currently learning <b> MySQL - Advanced </b></p> 
-      <p> - 💬 Ask me about <b> Anything in my Pile </b></p>
+      <p> - 💬 Ask me about <b> Anything in my Stack </b></p>
       <p> - 📫 How to reach me <b> ajiboyeadeleye080@gmail.com </b></p>
       <p> - ⚡ Fun fact <b> I am an ALX Software Engineering student. </b> - <em> Cohort 6 </em></p>
     </td>
