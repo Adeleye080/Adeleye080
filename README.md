@@ -12,8 +12,8 @@
       <p> - 🔭 I’m currently working on a project - <b> <a href="https://github.com/rohteemie/transafe_user_data_service"> TRANSAFE Train Ticketing App (User-service) </a></b></p>
 <!--       <p> - 🌱 I’m currently learning <b> MySQL - Advanced </b></p>  -->
       <p> - 💬 Ask me about <b> Anything in my Stack </b></p>
-      <p> - 📫 How to reach me <b> ajiboyeadeleye080@gmail.com </b></p>
-      <p> - ⚡ Fun fact <b> I am an ALX Software Engineering student. </b> - <em> Cohort 6 </em></p>
+      <p> - 📫 How to reach me <b> <a href="mailto:ajiboyeadeleye080@gmail.com"> ajiboyeadeleye080@gmail.com </a></b></p>
+      <p> - ⚡ Fun fact <b> I am an <a href="https://alxafrica.com/software-engineering">ALX Software Engineering</a> student. </b> - <em> Cohort 6 </em></p>
     </td>
     <td>
       <h3 align="left">Connect with me:</h3>
