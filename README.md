@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <p> - 🔭 I’m currently working on a project - <b> [TRANSAFE Train Ticketing App(User-service)](https://github.com/rohteemie/transafe_user_data_service) </b></p>
+      <p> - 🔭 I’m currently working on a project - <b> [TRANSAFE Train Ticketing App - User-service](https://github.com/rohteemie/transafe_user_data_service) </b></p>
 <!--       <p> - 🌱 I’m currently learning <b> MySQL - Advanced </b></p>  -->
       <p> - 💬 Ask me about <b> Anything in my Stack </b></p>
       <p> - 📫 How to reach me <b> ajiboyeadeleye080@gmail.com </b></p>
