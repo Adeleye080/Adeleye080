@@ -1,6 +1,6 @@
 <!-- <img alt="github" width="784" height="325" src="https://github.com/Adeleye080/Adeleye080/blob/master/Git.jpg" /> -->
 <h1 align="center">Hi 👋, I'm Ajiboye Adeleye Pius</h1>
-<h3 align="center">I'm a dedicated Nigerian software Egineer.</h3>
+<h3 align="center">I'm a dedicated Nigerian software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeleye080&label=Profile%20views&color=0e75b6&style=flat" alt="Ajiboye" /> </p>
 <p align="center"> <img align= "center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
 
@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <p> - 🔭 I’m currently working on a project - <b> <a href="https://github.com/rohteemie/transafe_user_data_service"> TRANSAFE Train Ticketing App (User-service) </a></b></p>
+      <p> - 🔭 I’m currently working on a project - <b> <a href="https://github.com/Adeleye080/transafe_authentication_service"> TRANSAFE Train Ticketing App (Authentication-service) </a></b></p>
 <!--       <p> - 🌱 I’m currently learning <b> MySQL - Advanced </b></p>  -->
       <p> - 💬 Ask me about <b> Anything in my Stack </b></p>
       <p> - 📫 How to reach me <b> <a href="mailto:ajiboyeadeleye080@gmail.com"> ajiboyeadeleye080@gmail.com </a></b></p>
