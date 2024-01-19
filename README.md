@@ -30,7 +30,7 @@
 </table>
 -->
 ___
-
+I sincerely apologize 🙏 if all public repositories are not helpful enough, for policy and more important reasons i had to keep my professional repositories private
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adeleye080&show_icons=true&locale=en&layout=compact" alt="adeleye080" /></p>
 
