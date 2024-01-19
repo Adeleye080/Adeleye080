@@ -6,6 +6,7 @@
 
 ---
 
+<!--
 <table>
   <tr>
     <td>
@@ -27,7 +28,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ___
 
 <!--
@@ -38,7 +39,7 @@ ___
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeleye080&" alt="Adeleye080" /></p> -->
 
 
-### Github Statistics
+<!-- ### Github Statistics
 
 <table>
   <tr>
@@ -54,4 +55,4 @@ ___
   </tr>
 </table>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adeleye080&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adeleye080&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
