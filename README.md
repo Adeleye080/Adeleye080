@@ -13,13 +13,13 @@
 <img alt="Django" src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-violet?style=for-the-badge&logo=flask&logoColor=black">
 <img alt="NodeJs" src="https://img.shields.io/badge/node.js-%23f2ca61.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/sql-%23168DF0?style=for-the-badge&logo=Mysql&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/docker-violet?style=for-the-badge&logo=docker&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/linux-blue?style=for-the-badge&logo=linux&logoColor=blue&labelColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/redis-grey?style=for-the-badge&logo=redis&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%23168DF0?style=for-the-badge&logo=Mysql&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/docker-violet?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/linux-blue?style=for-the-badge&logo=linux&logoColor=blue&labelColor=white">
+<img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=white">
+<img alt="Redis" src="https://img.shields.io/badge/redis-grey?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 
@@ -38,7 +38,7 @@
 
 ### Github Statistics
 
-<table>
+<table align=center>
   <tr>
 <!--     <td>
        <a href="https://github.com/Adeleye080"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Adeleye080&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
