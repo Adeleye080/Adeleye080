@@ -27,7 +27,7 @@
 <!--
 ### 📙 Recent Blogs on Medium
 
-<!-- MEDIUM_BLOG:START -->
+<!-- MEDIUM_BLOG:START 
 <p align="left">
 <a href="https://medium.com/@PiusAjiboye/building-scalable-backend-systems-f93caca515a8" title="Building Scalable Backend Systems"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*izty76PAjnTWuP6UxaYpWA.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><strong>ProManager - The Only Productivity Tool You Need</strong></a>
@@ -40,8 +40,6 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 <a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><strong>Boost Your Tech Savviness with These 5 Productivity Apps</strong></a>
 <br/> Hello everyone. Hope you'll are doing well. I'm back with another article to help you boost your productivity and stay updated with the latest tech trends and news. I'm very much excited to share about the 5 mobile apps that will help you achieve the... </p> <br/> <br/>
 <!-- MEDIUM_BLOG:END -->
--->
-
 
 
 
