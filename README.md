@@ -5,7 +5,7 @@
 <p align="center"> <img align= "center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
 
 
----
+___
 
 
 <p align='center'>
@@ -22,14 +22,14 @@
 <img alt="Redis" src="https://img.shields.io/badge/redis-grey?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
----
+<br/><br/><br/>
 
-<!--
-### 📙 Recent Blogs on Medium
+
+<!-- ### 📙 Recent Blogs on Medium
 
 <!-- MEDIUM_BLOG:START 
 <p align="left">
-<a href="https://medium.com/@PiusAjiboye/building-scalable-backend-systems-f93caca515a8" title="Building Scalable Backend Systems"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*izty76PAjnTWuP6UxaYpWA.png" alt="ProManager - The Only Productivity Tool You Need" width="250px" align="left" /></a>
+<a href="https://medium.com/@PiusAjiboye/building-scalable-backend-systems-f93caca515a8" title="Building Scalable Backend Systems"><img alt="Building Scalable Backend Systems" width="250px" height="180px" src="https://github.com/Adeleye080/Adeleye080/blob/master/a75xb6e2.png"  width="250px" align="left" /></a>
 <a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><strong>ProManager - The Only Productivity Tool You Need</strong></a>
 <br/> Introduction
 Are you looking for a comprehensive project management tool that not only helps you stay organized but also boosts your productivity to new heights? Look no further!
@@ -43,21 +43,19 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
 
 
 
+<br />
 
 
-
-
-
-
-
-
-### Github Statistics
-
-<table align=center>
+### Github Statistics📈
+<p>
+  <!--- GITHUB_STATS: START -->
+<table align="center">
   <tr>
-<!--     <td>
+    <!--
+     <td>
        <a href="https://github.com/Adeleye080"><img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Adeleye080&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td> -->
+    </td>
+    -->
     <td>
        <a href="http://www.github.com/Adeleye080"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adeleye080&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
@@ -66,6 +64,12 @@ Introducing ProManager, a feature-packed application designed to strea... </p> <
     </td>
   </tr>
 </table>
+<br>
+<!-- GITHUB_STATS:END -->
+</P>
 
 
-<p align="center"><b>Wanna show some love? Star my repositories 💙</b> 
+___
+
+
+<p align="center"><b>Wanna show some love? Star my repositories 💙</b> </p>
