@@ -1,8 +1,11 @@
 <!-- <img alt="github" width="784" height="325" src="https://github.com/Adeleye080/Adeleye080/blob/master/Git.jpg" /> -->
+![Banner](https://raw.githubusercontent.com/Adeleye080/Adeleye080/refs/heads/master/banner.png)
 <h1 align="center">Hi 👋, I'm Ajiboye Adeleye Pius</h1>
 <h3 align="center">I'm a dedicated Nigerian software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeleye080&label=Profile%20views&color=0e75b6&style=flat" alt="Ajiboye" /> </p>
-<p align="center"> <img align= "center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
+
+<p align="center"> <img align= "center" alt="programmer gif" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> </p>
+
 
 
 ___
