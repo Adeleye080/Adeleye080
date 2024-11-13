@@ -27,18 +27,19 @@ ___
 
 <!-- ### 📙 Recent Blogs on Medium
 
-<!-- MEDIUM_BLOG:START 
+<!-- MEDIUM_BLOG:START -->
 <p align="left">
-<a href="https://medium.com/@PiusAjiboye/building-scalable-backend-systems-f93caca515a8" title="Building Scalable Backend Systems"><img alt="Building Scalable Backend Systems" width="250px" height="180px" src="https://github.com/Adeleye080/Adeleye080/blob/master/a75xb6e2.png"  width="250px" align="left" /></a>
-<a href="https://susmitadey.hashnode.dev//promanager-the-only-productivity-tool-you-need" title="ProManager - The Only Productivity Tool You Need"><strong>ProManager - The Only Productivity Tool You Need</strong></a>
-<br/> Introduction
-Are you looking for a comprehensive project management tool that not only helps you stay organized but also boosts your productivity to new heights? Look no further!
+<a href="https://medium.com/@PiusAjiboye/building-scalable-backend-systems-f93caca515a8" title="Building Scalable Backend Systems"><img alt="Building Scalable Backend Systems" width="250px" height="180px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*izty76PAjnTWuP6UxaYpWA.png"  width="250px" align="left" /></a>
+<a href="https://medium.com/@PiusAjiboye/building-scalable-backend-systems-f93caca515a8" title="Building Scalable Backend Systems"><strong>Building Scalable Backend Systems</strong></a>
+<br/> <b>Introduction</b><br /><br />
+Have you ever found yourself under pressure when a company application lags, with all eyes on you to resolve the issue?
 
-Introducing ProManager, a feature-packed application designed to strea... </p> <br/> <br/>
+Read this articles to understand how to scale your backend systens and make it stand out. </p> <br/> <br/>
 <p align="left">
-<a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TSJqQCN4RKA/upload/7f5995d728741728ff8c0888c90d3607.jpeg" alt="Boost Your Tech Savviness with These 5 Productivity Apps" width="250px" align="left" /></a>
-<a href="https://susmitadey.hashnode.dev//boost-your-tech-savviness-with-these-5-productivity-apps" title="Boost Your Tech Savviness with These 5 Productivity Apps"><strong>Boost Your Tech Savviness with These 5 Productivity Apps</strong></a>
-<br/> Hello everyone. Hope you'll are doing well. I'm back with another article to help you boost your productivity and stay updated with the latest tech trends and news. I'm very much excited to share about the 5 mobile apps that will help you achieve the... </p> <br/> <br/>
+<a href="https://medium.com/@PiusAjiboye/leveraging-github-api-for-automation-f93550c651ea" title="Leveraging GitHub API for Automation"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9GY78UAYIOqtCcgU3yRqnA.jpeg" alt="Leveraging GitHub API for Automation" width="250px" align="left" /></a>
+<a href="https://medium.com/@PiusAjiboye/leveraging-github-api-for-automation-f93550c651ea" title="Leveraging GitHub API for Automation"><strong>Leveraging GitHub API for Automation</strong></a>
+<br/> <b>Introduction</b><br /><br />
+  GitHub is a go-to platform for developers and teams to collaborate on code, manage issues, review pull requests, and more. While GitHub’s features make managing projects easier, repetitive tasks can still take up a lot of time. That’s where GitHub bots come in! </p> <br/> <br/>
 <!-- MEDIUM_BLOG:END -->
 
 
