@@ -25,7 +25,7 @@ ___
 <br/><br/><br/>
 
 
-<!-- ### 📙 Recent Blogs on Medium
+### My Blogs on Medium 📙
 
 <!-- MEDIUM_BLOG:START -->
 <p align="left">
