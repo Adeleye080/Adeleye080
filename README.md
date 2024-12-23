@@ -1,5 +1,5 @@
 <!-- <img alt="github" width="784" height="325" src="https://github.com/Adeleye080/Adeleye080/blob/master/Git.jpg" /> -->
-![Banner](https://raw.githubusercontent.com/Adeleye080/Adeleye080/refs/heads/master/banner.png)
+![Banner](https://raw.githubusercontent.com/Adeleye080/Adeleye080/refs/heads/master/profile-banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adeleye080&label=Profile%20views&color=0e75b6&style=flat" alt="Ajiboye" /> </p>
 
 <h3 align="center">I'm a dedicated Nigerian software Engineer.</h3>
